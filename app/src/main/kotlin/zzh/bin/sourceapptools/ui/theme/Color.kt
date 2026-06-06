@@ -1,10 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-</resources>
+package zzh.bin.sourceapptools.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Green
+val green_primaryLight = Color(0xFF566422)
+val green_onPrimaryLight = Color(0xFFFFFFFF)
+val green_primaryContainerLight = Color(0xFFD9EB99)
+val green_onPrimaryContainerLight = Color(0xFF3F4C0B)
+val green_secondaryLight = Color(0xFF5C6146)
+val green_onSecondaryLight = Color(0xFFFFFFFF)
+val green_secondaryContainerLight = Color(0xFFE0E6C3)
+val green_onSecondaryContainerLight = Color(0xFF444930)
+val green_tertiaryLight = Color(0xFF4D662A)
+val green_onTertiaryLight = Color(0xFFFFFFFF)
+val green_tertiaryContainerLight = Color(0xFFCFEDA2)
+val green_onTertiaryContainerLight = Color(0xFF374E14)
+val green_errorLight = Color(0xFFBA1A1A)
+val green_onErrorLight = Color(0xFFFFFFFF)
+val green_errorContainerLight = Color(0xFFFFDAD6)
+val green_onErrorContainerLight = Color(0xFF93000A)
+val green_backgroundLight = Color(0xFFFBFAED)
+val green_onBackgroundLight = Color(0xFF1B1C15)
+val green_surfaceLight = Color(0xFFFBFAED)
+val green_onSurfaceLight = Color(0xFF1B1C15)
+val green_surfaceVariantLight = Color(0xFFF2F4E8) // Clean light green-beige
+val green_onSurfaceVariantLight = Color(0xFF46483C)
+val green_outlineLight = Color(0xFF77786A)
+val green_outlineVariantLight = Color(0xFFC7C8B8)
+val green_scrimLight = Color(0xFF000000)
+val green_inverseSurfaceLight = Color(0xFF303129)
+val green_inverseOnSurfaceLight = Color(0xFFF2F1E5)
+val green_inversePrimaryLight = Color(0xFFBECE80)
+val green_surfaceDimLight = Color(0xFFDBDBCE)
+val green_surfaceBrightLight = Color(0xFFFBFAED)
+val green_surfaceContainerLowestLight = Color(0xFFFFFFFF)
+val green_surfaceContainerLowLight = Color(0xFFF5F4E8)
+val green_surfaceContainerLight = Color(0xFFEFEEE2)
+val green_surfaceContainerHighLight = Color(0xFFEAE9DC)
+val green_surfaceContainerHighestLight = Color(0xFFE4E3D7)
+
+val green_primaryDark = Color(0xFFBECE80)
+val green_onPrimaryDark = Color(0xFF2A3400)
+val green_primaryContainerDark = Color(0xFF3F4C0B)
+val green_onPrimaryContainerDark = Color(0xFFD9EB99)
+val green_secondaryDark = Color(0xFFC4CAA8)
+val green_onSecondaryDark = Color(0xFF2E331B)
+val green_secondaryContainerDark = Color(0xFF444930)
+val green_onSecondaryContainerDark = Color(0xFFE0E6C3)
+val green_tertiaryDark = Color(0xFFB3D088)
+val green_onTertiaryDark = Color(0xFF213600)
+val green_tertiaryContainerDark = Color(0xFF374E14)
+val green_onTertiaryContainerDark = Color(0xFFCFEDA2)
+val green_errorDark = Color(0xFFFFB4AB)
+val green_onErrorDark = Color(0xFF690005)
+val green_errorContainerDark = Color(0xFF93000A)
+val green_onErrorContainerDark = Color(0xFFFFDAD6)
+val green_backgroundDark = Color(0xFF13140D)
+val green_onBackgroundDark = Color(0xFFE4E3D7)
+val green_surfaceDark = Color(0xFF13140D)
+val green_onSurfaceDark = Color(0xFFE4E3D7)
+val green_surfaceVariantDark = Color(0xFF252620) // Darker green-grey
+val green_onSurfaceVariantDark = Color(0xFFC7C8B8)
+val green_outlineDark = Color(0xFF919283)
+val green_outlineVariantDark = Color(0xFF46483C)
+val green_scrimDark = Color(0xFF000000)
+val green_inverseSurfaceDark = Color(0xFFE4E3D7)
+val green_inverseOnSurfaceDark = Color(0xFF303129)
+val green_inversePrimaryDark = Color(0xFF566422)
+val green_surfaceDimDark = Color(0xFF13140D)
+val green_surfaceBrightDark = Color(0xFF393A31)
+val green_surfaceContainerLowestDark = Color(0xFF0D0F08)
+val green_surfaceContainerLowDark = Color(0xFF1B1C15)
+val green_surfaceContainerDark = Color(0xFF1F2019)
+val green_surfaceContainerHighDark = Color(0xFF292B23)
+val green_surfaceContainerHighestDark = Color(0xFF34352D)
